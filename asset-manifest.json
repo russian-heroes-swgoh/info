@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/info/static/css/main.6b8b0889.css",
+    "main.js": "/info/static/js/main.e2d38c2f.js",
+    "static/js/787.be12ad74.chunk.js": "/info/static/js/787.be12ad74.chunk.js",
+    "static/media/rh-logo.png": "/info/static/media/rh-logo.8c49542f599d18ab4b28.png",
+    "index.html": "/info/index.html",
+    "main.6b8b0889.css.map": "/info/static/css/main.6b8b0889.css.map",
+    "main.e2d38c2f.js.map": "/info/static/js/main.e2d38c2f.js.map",
+    "787.be12ad74.chunk.js.map": "/info/static/js/787.be12ad74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b8b0889.css",
+    "static/js/main.e2d38c2f.js"
+  ]
+}
