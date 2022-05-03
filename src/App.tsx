@@ -1,6 +1,7 @@
 import React from 'react';
 import guildsInfo from './mock-data/guilds.json';
 import logo from './assets/rh-logo.png';
+import {ReactComponent as StarIcon} from './assets/star-solid.svg';
 import './App.css';
 
 function App() {
@@ -18,16 +19,16 @@ function App() {
                         {guildInfo.galactic_power} кк
                     </td>
                     <td className="dstb-geo">
-                        {guildInfo.dstb_geo}
+                        {guildInfo.dstb_geo} <StarIcon/>
                     </td>
                     <td className="lstb-geo">
-                        {guildInfo.lstb_geo}
+                        {guildInfo.lstb_geo} <StarIcon/>
                     </td>
-                    <td className="kam">
+                    {/*<td className="kam">
                         {guildInfo.kam && guildInfo.kam > 0
                             ? guildInfo.kam + "+"
                             : ""}
-                    </td>
+                    </td>*/}
                     <td className="cpit-time">
                         {guildInfo.cpit_time}
                     </td>
@@ -58,7 +59,7 @@ function App() {
                         <th className="guild-name text-start">
                             Дата обновления: {updateDate}
                         </th>
-                        <th colSpan={6}>
+                        <th colSpan={5}>
                             Информация о гильдиях
                         </th>
                         <th>
@@ -78,9 +79,9 @@ function App() {
                         <td>
                             Светлое ТБ
                         </td>
-                        <td>
+                        {/*<td>
                             KAM
-                        </td>
+                        </td>*/}
                         <td>
                             Яма 2.0
                         </td>

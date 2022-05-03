@@ -3,6 +3,8 @@
   --sw-dark-side-color: #B03233;
   --bs-body-color: #f2f2f2;
   --bs-body-bg: #222f3e;
+
+  --link-hover-color: var(--bs-white);
 }
 
 a,
@@ -11,18 +13,18 @@ a,
 }
 
 a:hover {
-  color: #fff;
+  color: var(--link-hover-color);
 }
 
-.dstb-geo::after,
-.lstb-geo::after {
-  content: "⭑";
+.dstb-geo svg,
+.lstb-geo svg {
+  height: 1rem;
 }
 
-.dstb-geo::after {
-  color: var(--sw-dark-side-color);
+.dstb-geo svg {
+  fill: var(--sw-dark-side-color);
 }
 
-.lstb-geo::after {
-  color: var(--sw-light-side-color);
+.lstb-geo svg {
+  fill: var(--sw-light-side-color);
 }

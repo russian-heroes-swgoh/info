@@ -5,7 +5,7 @@
       "name": "RH STEEL LEGION",
       "link": "https://swgoh.gg/g/17751/rh-steel-legion/",
       "link_alt": "https://swgoh.gg/g/37Cx8RqORU2qLE0AKBgTjg/",
-      "galactic_power": 396,
+      "galactic_power": 400,
       "dstb_geo": 33,
       "lstb_geo": 31,
       "kam": 40,
@@ -33,9 +33,9 @@
       "dstb_geo": 33,
       "lstb_geo": 30,
       "kam": 0,
-      "cpit_time": "",
-      "hstr_time": "",
-      "requirements": 0
+      "cpit_time": "20:00",
+      "hstr_time": "19:00",
+      "requirements": 7
     },
     {
       "name": "RH OLD EMPIRΞ",
@@ -69,7 +69,7 @@
       "dstb_geo": 27,
       "lstb_geo": 11,
       "kam": 0,
-      "cpit_time": "20:00",
+      "cpit_time": "",
       "hstr_time": "20:00",
       "requirements": 3
     },
