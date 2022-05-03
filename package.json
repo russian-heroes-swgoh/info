@@ -1,5 +1,6 @@
 {
-  "name": "guild-list",
+  "name": "rh-guild-list",
+  "description": "Russian Heroes Alliance Guild List",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://russian-heroes-swgoh.github.io/info/",
