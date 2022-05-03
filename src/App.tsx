@@ -52,7 +52,7 @@ function App() {
                     <img src={logo} alt="Russian Heroes Alliance" className="p-3 mx-auto w-100"/>
                 </div>
             </div>
-            <div className="row">
+            <div className="row table-responsive">
                 <table className="table table-bordered text-center align-middle">
                     <thead className="align-middle">
                     <tr>
