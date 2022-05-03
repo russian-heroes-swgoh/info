@@ -1,0 +1,161 @@
+{
+  "update_date": "01.05.2022",
+  "guilds": [
+    {
+      "name": "RH STEEL LEGION",
+      "link": "https://swgoh.gg/g/17751/rh-steel-legion/",
+      "link_alt": "https://swgoh.gg/g/37Cx8RqORU2qLE0AKBgTjg/",
+      "galactic_power": 396,
+      "dstb_geo": 33,
+      "lstb_geo": 31,
+      "kam": 40,
+      "cpit_time": "20:00",
+      "hstr_time": "20:00",
+      "requirements": 7.5
+    },
+    {
+      "name": "RH DĒTHTRØØPĒR",
+      "link": "https://swgoh.gg/g/41683/rh-dethtrooper/",
+      "link_alt": "https://swgoh.gg/g/AF-ZGW9dRGiu1vRQCrduWA/",
+      "galactic_power": 375,
+      "dstb_geo": 33,
+      "lstb_geo": 28,
+      "kam": 40,
+      "cpit_time": "20:00",
+      "hstr_time": "",
+      "requirements": 7
+    },
+    {
+      "name": "RH ΔΞΛЬТА",
+      "link": "https://swgoh.gg/g/4638/rh-dkslta/",
+      "link_alt": "https://swgoh.gg/g/9QIUNJFITYiQ6IIUsqKUHw/",
+      "galactic_power": 401,
+      "dstb_geo": 33,
+      "lstb_geo": 30,
+      "kam": 0,
+      "cpit_time": "",
+      "hstr_time": "",
+      "requirements": 0
+    },
+    {
+      "name": "RH OLD EMPIRΞ",
+      "link": "https://swgoh.gg/g/840/rh-old-republic/",
+      "link_alt": "https://swgoh.gg/g/erJSSYT3QVqLwJlaoZH2TQ/",
+      "galactic_power": 420,
+      "dstb_geo": 33,
+      "lstb_geo": 32,
+      "kam": 27,
+      "cpit_time": "20:00",
+      "hstr_time": "",
+      "requirements": 8
+    },
+    {
+      "name": "RH Антанта2",
+      "link": "https://swgoh.gg/g/14363/rh-antanta2/",
+      "link_alt": "https://swgoh.gg/g/IGItKRB9TWivojXv-572FQ/",
+      "galactic_power": 325,
+      "dstb_geo": 31,
+      "lstb_geo": 21,
+      "kam": 14,
+      "cpit_time": "19:00",
+      "hstr_time": "",
+      "requirements": 5.5
+    },
+    {
+      "name": "RH Из Пеплa",
+      "link": "https://swgoh.gg/g/86683/rh-iz-pepla/",
+      "link_alt": "https://swgoh.gg/g/mobaRRfqTlanm8ZPL0QJMw/",
+      "galactic_power": 219,
+      "dstb_geo": 27,
+      "lstb_geo": 11,
+      "kam": 0,
+      "cpit_time": "20:00",
+      "hstr_time": "20:00",
+      "requirements": 3
+    },
+    {
+      "name": "RH Цитадель",
+      "link": "https://swgoh.gg/g/104/rh-tsitadel/",
+      "link_alt": "https://swgoh.gg/g/qOSG133nQOOhruKXwDYCkQ/",
+      "galactic_power": 370,
+      "dstb_geo": 32,
+      "lstb_geo": 30,
+      "kam": 40,
+      "cpit_time": "20:00",
+      "hstr_time": "19:00",
+      "requirements": 7
+    },
+    {
+      "name": "RH ΔVRΘRΔ",
+      "link": "https://swgoh.gg/g/3505/vpopa/",
+      "link_alt": "https://swgoh.gg/g/Rvdb___nTnu4YQ26puwKAA/",
+      "galactic_power": 345,
+      "dstb_geo": 32,
+      "lstb_geo": 27,
+      "kam": 25,
+      "cpit_time": "12:00",
+      "hstr_time": "20:00",
+      "requirements": 6
+    },
+    {
+      "name": "RH New Far Eastern Republic",
+      "link": "https://swgoh.gg/g/17048/rh-new-far-eastern-republic/",
+      "link_alt": "https://swgoh.gg/g/_cn5xzN8Tb-4P7dbdjtvJg/",
+      "galactic_power": 407,
+      "dstb_geo": 33,
+      "lstb_geo": 31,
+      "kam": 37,
+      "cpit_time": "20:00",
+      "hstr_time": "20:00",
+      "requirements": 7
+    },
+    {
+      "name": "RH Осколки Империи",
+      "link": "",
+      "link_alt": "https://swgoh.gg/g/SKbd4l-cSreHYdwXoEl3zA/",
+      "galactic_power": 341,
+      "dstb_geo": 32,
+      "lstb_geo": 22,
+      "kam": 24,
+      "cpit_time": "18:00",
+      "hstr_time": "19:00",
+      "requirements": 6
+    },
+    {
+      "name": "RH Saint Army",
+      "link": "",
+      "link_alt": "https://swgoh.gg/g/M7n5bI8CQ6GUSojJcE39pg/",
+      "galactic_power": 298,
+      "dstb_geo": 31,
+      "lstb_geo": 16,
+      "kam": 16,
+      "cpit_time": "20:00",
+      "hstr_time": "",
+      "requirements": 5
+    },
+    {
+      "name": "RH Jensaarai",
+      "link": "",
+      "link_alt": "https://swgoh.gg/g/78PVyPgdSB-rqQyb3Fl3Vw/",
+      "galactic_power": 389,
+      "dstb_geo": 33,
+      "lstb_geo": 28,
+      "kam": 27,
+      "cpit_time": "20:00",
+      "hstr_time": "",
+      "requirements": 6.5
+    },
+    {
+      "name": "RH Invisible Sun",
+      "link": "",
+      "link_alt": "https://swgoh.gg/g/oy2awPmqRYyCKPvgJNjPIQ/",
+      "galactic_power": 386,
+      "dstb_geo": 33,
+      "lstb_geo": 30,
+      "kam": 30,
+      "cpit_time": "20:00",
+      "hstr_time": "20:00",
+      "requirements": 0
+    }
+  ]
+}
