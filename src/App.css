@@ -16,8 +16,8 @@ a:hover {
   color: var(--link-hover-color);
 }
 
-.dstb-geo,
-.lstb-geo {
+.dstb-geo span,
+.lstb-geo span {
   display: flex;
   align-items: center;
   justify-content: center;

@@ -19,10 +19,10 @@ function App() {
                         {guildInfo.galactic_power} кк
                     </td>
                     <td className="dstb-geo">
-                        {guildInfo.dstb_geo} <StarIcon/>
+                        <span>{guildInfo.dstb_geo} <StarIcon/></span>
                     </td>
                     <td className="lstb-geo">
-                        {guildInfo.lstb_geo} <StarIcon/>
+                        <span>{guildInfo.lstb_geo} <StarIcon/></span>
                     </td>
                     {/*<td className="kam">
                         {guildInfo.kam && guildInfo.kam > 0
