@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/info/static/css/main.8b199889.css",
-    "main.js": "/info/static/js/main.406693cc.js",
+    "main.js": "/info/static/js/main.7aaf2645.js",
     "static/js/787.16bc19f9.chunk.js": "/info/static/js/787.16bc19f9.chunk.js",
     "static/media/rh-logo.png": "/info/static/media/rh-logo.8c49542f599d18ab4b28.png",
     "index.html": "/info/index.html",
     "static/media/star-solid.svg": "/info/static/media/star-solid.c4d44ce72583a8100a8070da1547e845.svg",
     "main.8b199889.css.map": "/info/static/css/main.8b199889.css.map",
-    "main.406693cc.js.map": "/info/static/js/main.406693cc.js.map",
+    "main.7aaf2645.js.map": "/info/static/js/main.7aaf2645.js.map",
     "787.16bc19f9.chunk.js.map": "/info/static/js/787.16bc19f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b199889.css",
-    "static/js/main.406693cc.js"
+    "static/js/main.7aaf2645.js"
   ]
 }
