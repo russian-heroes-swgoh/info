@@ -16,6 +16,14 @@ a:hover {
   color: var(--link-hover-color);
 }
 
+.dstb-geo,
+.lstb-geo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.2rem;
+}
+
 .dstb-geo svg,
 .lstb-geo svg {
   height: 1rem;
