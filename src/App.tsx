@@ -24,11 +24,6 @@ function App() {
                     <td className="lstb-geo">
                         <span>{guildInfo.lstb_geo} <StarIcon/></span>
                     </td>
-                    {/*<td className="kam">
-                        {guildInfo.kam && guildInfo.kam > 0
-                            ? guildInfo.kam + "+"
-                            : ""}
-                    </td>*/}
                     <td className="cpit-time">
                         {guildInfo.cpit_time}
                     </td>
@@ -79,9 +74,6 @@ function App() {
                         <td>
                             Светлое ТБ
                         </td>
-                        {/*<td>
-                            KAM
-                        </td>*/}
                         <td>
                             Яма 2.0
                         </td>
