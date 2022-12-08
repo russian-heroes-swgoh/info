@@ -11,7 +11,7 @@ function App() {
             return (
                 <tr key={guildInfo.name}>
                     <td className="guild-name text-start fw-bold">
-                        <a href={guildInfo.link_alt} className="text-decoration-none" target="_blank">
+                        <a href={guildInfo.link} className="text-decoration-none" target="_blank">
                             {guildInfo.name}
                         </a>
                     </td>
