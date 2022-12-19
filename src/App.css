@@ -1,6 +1,7 @@
 :root {
   --sw-light-side-color: #3F8CBA;
   --sw-dark-side-color: #B03233;
+  --sw-rote-neutral-color: #FFA500;
   --bs-body-color: #f2f2f2;
   --bs-body-bg: #222f3e;
 
@@ -16,6 +17,7 @@ a:hover {
   color: var(--link-hover-color);
 }
 
+.rote span,
 .dstb-geo span,
 .lstb-geo span {
   display: flex;
@@ -24,6 +26,7 @@ a:hover {
   gap: 0.2rem;
 }
 
+.rote svg,
 .dstb-geo svg,
 .lstb-geo svg {
   height: 1rem;
@@ -35,4 +38,8 @@ a:hover {
 
 .lstb-geo svg {
   fill: var(--sw-light-side-color);
+}
+
+.rote svg {
+  fill: var(--sw-rote-neutral-color);
 }

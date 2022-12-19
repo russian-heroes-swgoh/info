@@ -18,11 +18,14 @@ function App() {
                     <td className="galactic-power">
                         {guildInfo.galactic_power} кк
                     </td>
-                    <td className="dstb-geo">
-                        <span>{guildInfo.dstb_geo} <StarIcon/></span>
+                    <td className="rote">
+                        <span>{guildInfo.rote} <StarIcon/></span>
                     </td>
                     <td className="lstb-geo">
                         <span>{guildInfo.lstb_geo} <StarIcon/></span>
+                    </td>
+                    <td className="dstb-geo">
+                        <span>{guildInfo.dstb_geo} <StarIcon/></span>
                     </td>
                     <td className="cpit-time">
                         {guildInfo.cpit_time}
@@ -69,10 +72,13 @@ function App() {
                             ГМ гильдии
                         </td>
                         <td>
-                            Темное ТБ
+                            Восход ТБ
                         </td>
                         <td>
                             Светлое ТБ
+                        </td>
+                        <td>
+                            Темное ТБ
                         </td>
                         <td>
                             Яма 2.0
