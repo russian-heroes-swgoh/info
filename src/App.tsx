@@ -57,7 +57,7 @@ function App() {
                         <th className="guild-name text-start">
                             Дата обновления: {updateDate}
                         </th>
-                        <th colSpan={5}>
+                        <th colSpan={6}>
                             Информация о гильдиях
                         </th>
                         <th>
