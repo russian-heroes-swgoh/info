@@ -1,7 +1,7 @@
 :root {
   --sw-light-side-color: #3F8CBA;
   --sw-dark-side-color: #B03233;
-  --sw-rote-neutral-color: #FFA500;
+  --sw-rote-neutral-color: #DB953B;
   --bs-body-color: #f2f2f2;
   --bs-body-bg: #222f3e;
 
@@ -17,16 +17,16 @@ a:hover {
   color: var(--link-hover-color);
 }
 
-.rote span,
-.dstb-geo span,
-.lstb-geo span {
+.rote-tb span,
+.geo-tb span {
   display: flex;
   align-items: center;
   justify-content: center;
   gap: 0.2rem;
 }
 
-.rote svg,
+.rote-tb-stars svg,
+.rote-tb-reva img,
 .dstb-geo svg,
 .lstb-geo svg {
   height: 1rem;
@@ -40,6 +40,6 @@ a:hover {
   fill: var(--sw-light-side-color);
 }
 
-.rote svg {
+.rote-tb-stars svg {
   fill: var(--sw-rote-neutral-color);
 }
