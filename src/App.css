@@ -8,14 +8,14 @@
   --link-hover-color: var(--bs-white);
 }
 
-body {
+/*body {
   background: linear-gradient(90deg, rgba(136,14,19,1) 0%, rgba(34,47,62,1) 50%, rgba(25,81,177,1) 100%);
 }
 
 #root {
   background: radial-gradient(circle, rgba(255,255,255,0) 50%, rgba(34,47,62,1) 100%);
   min-height: 100vh;
-}
+}*/
 
 a,
 .table {
