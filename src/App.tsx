@@ -19,14 +19,18 @@ function App() {
                     <td className="galactic-power">
                         {guildInfo.galactic_power} кк
                     </td>
-                    <td className="rote-tb">
-                        <span className="rote-tb-stars">{guildInfo.rote_stars} <StarIcon/></span>
-                        <span className="rote-tb-reva">{guildInfo.rote_reva} <img src={reva} alt="Reva"/></span>
-                    </td>
-                    <td className="geo-tb">
-                        <span className="lstb-geo">{guildInfo.lstb_geo} <StarIcon/></span>
-                        <span className="dstb-geo">{guildInfo.dstb_geo} <StarIcon/></span>
-                    </td>
+
+                    {guildInfo.rote_stars && guildInfo.rote_stars > 0
+                        ? <td className="rote-tb">
+                            <span className="rote-tb-stars">{guildInfo.rote_stars} <StarIcon/></span>
+                            <span className="rote-tb-reva">{guildInfo.rote_reva} <img src={reva} alt="Reva"/></span>
+                        </td>
+                        : <td className="geo-tb">
+                            <span className="lstb-geo">{guildInfo.lstb_geo} <StarIcon/></span>
+                            <span className="dstb-geo">{guildInfo.dstb_geo} <StarIcon/></span>
+                        </td>
+                    }
+
                     <td className="cpit-time">
                         {guildInfo.cpit_time}
                     </td>
@@ -57,8 +61,8 @@ function App() {
                         <th className="guild-name text-start">
                             Дата обновления: {updateDate}
                         </th>
-                        <th colSpan={5}>
-                            Информация о гильдиях
+                        <th colSpan={4}>
+                            Информация
                         </th>
                         <th>
                             Требования
@@ -69,13 +73,10 @@ function App() {
                             Название
                         </td>
                         <td>
-                            ГМ гильдии
+                            ГМ
                         </td>
                         <td>
-                            Восход ТБ
-                        </td>
-                        <td>
-                            Джео ТБ
+                            ТБ
                         </td>
                         <td>
                             Яма 2.0
