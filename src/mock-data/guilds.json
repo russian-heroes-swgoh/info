@@ -1,14 +1,14 @@
 {
-  "update_date": "09.04.2023",
+  "update_date": "25.04.2023",
   "guilds": [
     {
       "name": "RH STEEL LEGION",
       "link": "https://swgoh.gg/g/37Cx8RqORU2qLE0AKBgTjg/",
-      "galactic_power": 494,
+      "galactic_power": 497,
       "dstb_geo": 33,
       "lstb_geo": 33,
       "rote_stars": 36,
-      "rote_reva": 41,
+      "rote_reva": 43,
       "cpit_time": "20:00",
       "hstr_time": "20:00",
       "requirements": 9
@@ -16,7 +16,7 @@
     {
       "name": "RH ΔΞΛЬТА",
       "link": "https://swgoh.gg/g/9QIUNJFITYiQ6IIUsqKUHw/",
-      "galactic_power": 485,
+      "galactic_power": 487,
       "dstb_geo": 33,
       "lstb_geo": 32,
       "rote_stars": 36,
@@ -28,7 +28,7 @@
     {
       "name": "RH Антанта2",
       "link": "https://swgoh.gg/g/IGItKRB9TWivojXv-572FQ/",
-      "galactic_power": 406,
+      "galactic_power": 414,
       "dstb_geo": 32,
       "lstb_geo": 27,
       "rote_stars": 27,
@@ -40,7 +40,7 @@
     {
       "name": "RH Из Пеплa",
       "link": "https://swgoh.gg/g/mobaRRfqTlanm8ZPL0QJMw/",
-      "galactic_power": 309,
+      "galactic_power": 308,
       "dstb_geo": 31,
       "lstb_geo": 19,
       "rote_stars": 18,
@@ -52,11 +52,11 @@
     {
       "name": "RH Осколки Империи",
       "link": "https://swgoh.gg/g/SKbd4l-cSreHYdwXoEl3zA/",
-      "galactic_power": 422,
+      "galactic_power": 431,
       "dstb_geo": 32,
       "lstb_geo": 27,
       "rote_stars": 30,
-      "rote_reva": 13,
+      "rote_reva": 21,
       "cpit_time": "18:00",
       "hstr_time": "19:00",
       "requirements": 7.5
@@ -64,11 +64,11 @@
     {
       "name": "RH Invisible Sun",
       "link": "https://swgoh.gg/g/oy2awPmqRYyCKPvgJNjPIQ/",
-      "galactic_power": 487,
+      "galactic_power": 490,
       "dstb_geo": 33,
       "lstb_geo": 33,
       "rote_stars": 36,
-      "rote_reva": 41,
+      "rote_reva": 43,
       "cpit_time": "20:00",
       "hstr_time": "20:00",
       "requirements": 9
@@ -76,11 +76,11 @@
     {
       "name": "RH DĒTHTRØØPĒR",
       "link": "https://swgoh.gg/g/AF-ZGW9dRGiu1vRQCrduWA/",
-      "galactic_power": 466,
+      "galactic_power": 470,
       "dstb_geo": 33,
       "lstb_geo": 32,
-      "rote_stars": 34,
-      "rote_reva": 31,
+      "rote_stars": 36,
+      "rote_reva": 37,
       "cpit_time": "19:00",
       "hstr_time": "20:00",
       "requirements": 9
@@ -88,11 +88,11 @@
     {
       "name": "RH Zakuul",
       "link": "https://swgoh.gg/g/CKBeaG5bQhuUog3h4d_mCQ/",
-      "galactic_power": 458,
+      "galactic_power": 461,
       "dstb_geo": 33,
       "lstb_geo": 32,
-      "rote_stars": 32,
-      "rote_reva": 12,
+      "rote_stars": 33,
+      "rote_reva": 18,
       "cpit_time": "20:00",
       "hstr_time": "21:00",
       "requirements": 8.5
@@ -112,10 +112,10 @@
     {
       "name": "RH JEDHA",
       "link": "https://swgoh.gg/g/D4NohSzSSPeugAOFvOppJA/",
-      "galactic_power": 404,
+      "galactic_power": 399,
       "dstb_geo": 32,
       "lstb_geo": 27,
-      "rote_stars": 25,
+      "rote_stars": 27,
       "rote_reva": 4,
       "cpit_time": "20:00",
       "hstr_time": "19:00",
@@ -124,11 +124,11 @@
     {
       "name": "RH INSANE STATE",
       "link": "https://swgoh.gg/g/h_lIhTTZQyuYvYYbQaksEw/",
-      "galactic_power": 424,
+      "galactic_power": 418,
       "dstb_geo": 0,
       "lstb_geo": 0,
       "rote_stars": 29,
-      "rote_reva": 6,
+      "rote_reva": 8,
       "cpit_time": "19:00",
       "hstr_time": "20:00",
       "requirements": 8
