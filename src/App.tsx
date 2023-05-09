@@ -2,22 +2,40 @@ import React from 'react';
 import guildsInfo from './mock-data/guilds.json';
 import logo from './assets/rh-logo.png';
 import reva from './assets/tex.charui_thirdsister.png';
+import raidKrayt from './assets/raid-krayt.png'
+import raidTriumvirate from './assets/raid-the-sith-triumvirate.png'
+import raidPit from './assets/raid-pit.png'
+import raidPoints from './assets/raid-points.png'
 import {ReactComponent as StarIcon} from './assets/star-solid.svg';
 import './App.css';
+
+function getRaidLogo(raid: string | undefined) {
+    if (!raid) {
+        return undefined;
+    }
+
+    switch (raid) {
+        case "krayt": return raidKrayt;
+        case "triumvirate": return raidTriumvirate;
+        case "pit" : return raidPit;
+        default: return undefined;
+    }
+}
 
 function App() {
     const updateDate = guildsInfo?.update_date;
     const guildsJSX = guildsInfo?.guilds?.sort((g1, g2) => g2.galactic_power - g1.galactic_power)
         .map((guildInfo) => {
+            let raidLogo = getRaidLogo(guildInfo.raid);
             return (
                 <tr key={guildInfo.name}>
                     <td className="guild-name text-start fw-bold">
-                        <a href={guildInfo.link} className="text-decoration-none" target="_blank">
+                        <a href={guildInfo.link} className="text-decoration-none" target="_blank" rel="noreferrer">
                             {guildInfo.name}
                         </a>
                     </td>
                     <td className="galactic-power">
-                        {guildInfo.galactic_power} кк
+                        {guildInfo.galactic_power} kk
                     </td>
 
                     {guildInfo.rote_stars && guildInfo.rote_stars > 0
@@ -31,12 +49,14 @@ function App() {
                         </td>
                     }
 
-                    <td className="cpit-time">
-                        {guildInfo.cpit_time}
+                    <td className="raid">
+                        <span className="raid-logo"> <img src={raidLogo} alt="Raid"/> </span>
+                        {guildInfo.raid_points && guildInfo.raid_points > 0
+                            ? <span className="raid-points"> <img src={raidPoints} alt="Raid points"/> {guildInfo.raid_points} kk+</span>
+                            : null
+                        }
                     </td>
-                    <td className="hstr-time">
-                        {guildInfo.hstr_time}
-                    </td>
+
                     <td className="requirements">
                         {guildInfo.requirements && guildInfo.requirements > 0
                             ? "От " + guildInfo.requirements + " кк"
@@ -61,7 +81,7 @@ function App() {
                         <th className="guild-name text-start">
                             Дата обновления: {updateDate}
                         </th>
-                        <th colSpan={4}>
+                        <th colSpan={3}>
                             Информация
                         </th>
                         <th>
@@ -79,10 +99,7 @@ function App() {
                             ТБ
                         </td>
                         <td>
-                            Яма 2.0
-                        </td>
-                        <td>
-                            ГТС
+                            Рейд
                         </td>
                         <td>
                             ГМ игрока

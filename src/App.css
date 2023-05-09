@@ -6,6 +6,11 @@
   --bs-body-bg: #222f3e;
 
   --link-hover-color: var(--bs-white);
+
+  --border-radius: 2px;
+  --image-size-sm: 1rem;
+  --image-size-md: 2rem;
+  --spacing: 0.2rem;
 }
 
 /*body {
@@ -31,14 +36,18 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 0.2rem;
+  gap: var(--spacing);
 }
 
 .rote-tb-stars svg,
 .rote-tb-reva img,
 .dstb-geo svg,
 .lstb-geo svg {
-  height: 1rem;
+  height: var(--image-size-sm);
+}
+
+.rote-tb-reva img {
+  border-radius: var(--border-radius);
 }
 
 .dstb-geo svg {
@@ -51,4 +60,20 @@ a:hover {
 
 .rote-tb-stars svg {
   fill: var(--sw-rote-neutral-color);
+}
+
+.raid span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--spacing);
+}
+
+.raid .raid-logo img {
+  height: var(--image-size-md);
+  border-radius: var(--border-radius);
+}
+
+.raid .raid-points img {
+  height: var(--image-size-sm);
 }
