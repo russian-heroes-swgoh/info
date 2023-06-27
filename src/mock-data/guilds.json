@@ -1,34 +1,34 @@
 {
-  "update_date": "05.06.2023",
+  "update_date": "26.06.2023",
   "guilds": [
     {
       "name": "RH STEEL LEGION",
       "link": "https://swgoh.gg/g/37Cx8RqORU2qLE0AKBgTjg/",
-      "galactic_power": 510,
+      "galactic_power": 521,
       "dstb_geo": 33,
       "lstb_geo": 33,
       "rote_stars": 37,
       "rote_reva": 47,
       "raid": "krayt",
       "raid_points": 130,
-      "requirements": 9
+      "requirements": 10
     },
     {
       "name": "RH ΔΞΛЬТА",
       "link": "https://swgoh.gg/g/9QIUNJFITYiQ6IIUsqKUHw/",
-      "galactic_power": 494,
+      "galactic_power": 506,
       "dstb_geo": 33,
       "lstb_geo": 32,
       "rote_stars": 36,
       "rote_reva": 38,
       "raid": "krayt",
       "raid_points": 130,
-      "requirements": 9
+      "requirements": 9.5
     },
     {
       "name": "RH Антанта2",
       "link": "https://swgoh.gg/g/IGItKRB9TWivojXv-572FQ/",
-      "galactic_power": 425,
+      "galactic_power": 426,
       "dstb_geo": 32,
       "lstb_geo": 27,
       "rote_stars": 28,
@@ -40,23 +40,23 @@
     {
       "name": "RH Из Пеплa",
       "link": "https://swgoh.gg/g/mobaRRfqTlanm8ZPL0QJMw/",
-      "galactic_power": 341,
+      "galactic_power": 354,
       "dstb_geo": 31,
       "lstb_geo": 19,
       "rote_stars": 19,
       "rote_reva": 0,
-      "raid": "triumvirate",
-      "raid_points": 0,
+      "raid": "krayt",
+      "raid_points": 25,
       "requirements": 5
     },
     {
       "name": "RH Осколки Империи",
       "link": "https://swgoh.gg/g/SKbd4l-cSreHYdwXoEl3zA/",
-      "galactic_power": 443,
+      "galactic_power": 452,
       "dstb_geo": 32,
       "lstb_geo": 27,
-      "rote_stars": 30,
-      "rote_reva": 25,
+      "rote_stars": 29,
+      "rote_reva": 19,
       "raid": "krayt",
       "raid_points": 90,
       "requirements": 7.5
@@ -64,23 +64,23 @@
     {
       "name": "RH Invisible Sun",
       "link": "https://swgoh.gg/g/oy2awPmqRYyCKPvgJNjPIQ/",
-      "galactic_power": 505,
+      "galactic_power": 516,
       "dstb_geo": 33,
       "lstb_geo": 33,
       "rote_stars": 37,
-      "rote_reva": 43,
+      "rote_reva": 44,
       "raid": "krayt",
       "raid_points": 130,
-      "requirements": 9
+      "requirements": 9.5
     },
     {
       "name": "RH DĒTHTRØØPĒR",
       "link": "https://swgoh.gg/g/AF-ZGW9dRGiu1vRQCrduWA/",
-      "galactic_power": 483,
+      "galactic_power": 493,
       "dstb_geo": 33,
       "lstb_geo": 32,
       "rote_stars": 36,
-      "rote_reva": 37,
+      "rote_reva": 40,
       "raid": "krayt",
       "raid_points": 130,
       "requirements": 9
@@ -88,19 +88,19 @@
     {
       "name": "RH Zakuul",
       "link": "https://swgoh.gg/g/CKBeaG5bQhuUog3h4d_mCQ/",
-      "galactic_power": 475,
+      "galactic_power": 484,
       "dstb_geo": 33,
       "lstb_geo": 32,
       "rote_stars": 33,
       "rote_reva": 35,
       "raid": "krayt",
       "raid_points": 130,
-      "requirements": 8.5
+      "requirements": 9
     },
     {
       "name": "RH Jensaarai",
       "link": "https://swgoh.gg/g/78PVyPgdSB-rqQyb3Fl3Vw/",
-      "galactic_power": 476,
+      "galactic_power": 483,
       "dstb_geo": 33,
       "lstb_geo": 32,
       "rote_stars": 33,
@@ -112,11 +112,11 @@
     {
       "name": "RH JEDHA",
       "link": "https://swgoh.gg/g/D4NohSzSSPeugAOFvOppJA/",
-      "galactic_power": 434,
+      "galactic_power": 442,
       "dstb_geo": 32,
       "lstb_geo": 27,
       "rote_stars": 28,
-      "rote_reva": 8,
+      "rote_reva": 10,
       "raid": "krayt",
       "raid_points": 25,
       "requirements": 7
