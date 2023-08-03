@@ -15,10 +15,14 @@ function getRaidLogo(raid: string | undefined) {
     }
 
     switch (raid) {
-        case "krayt": return raidKrayt;
-        case "triumvirate": return raidTriumvirate;
-        case "pit" : return raidPit;
-        default: return undefined;
+        case "krayt":
+            return raidKrayt;
+        case "triumvirate":
+            return raidTriumvirate;
+        case "pit" :
+            return raidPit;
+        default:
+            return undefined;
     }
 }
 
@@ -52,7 +56,8 @@ function App() {
                     <td className="raid">
                         <span className="raid-logo"> <img src={raidLogo} alt="Raid"/> </span>
                         {guildInfo.raid_points && guildInfo.raid_points > 0
-                            ? <span className="raid-points"> <img src={raidPoints} alt="Raid points"/> {guildInfo.raid_points} kk+</span>
+                            ? <span className="raid-points"> <img src={raidPoints}
+                                                                  alt="Raid points"/> {guildInfo.raid_points} kk+</span>
                             : null
                         }
                     </td>
@@ -71,7 +76,9 @@ function App() {
         <div className="container">
             <div className="row">
                 <div className="col col-lg-8 offset-lg-2">
-                    <img src={logo} alt="Russian Heroes Alliance" className="p-3 mx-auto w-100"/>
+                    <a href="https://recruit.swgoh.gg/alliance/355/russian-heroes" target="_blank" rel="noreferrer">
+                        <img src={logo} alt="Russian Heroes Alliance" className="p-3 mx-auto w-100"/>
+                    </a>
                 </div>
             </div>
             <div className="row table-responsive">
