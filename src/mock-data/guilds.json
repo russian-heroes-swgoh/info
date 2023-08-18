@@ -1,22 +1,22 @@
 {
-  "update_date": "01.08.2023",
+  "update_date": "18.08.2023",
   "guilds": [
     {
       "name": "RH STEEL LEGION",
       "link": "https://swgoh.gg/g/37Cx8RqORU2qLE0AKBgTjg/",
-      "galactic_power": 535,
+      "galactic_power": 538,
       "dstb_geo": 33,
       "lstb_geo": 33,
       "rote_stars": 37,
       "rote_reva": 47,
       "raid": "krayt",
-      "raid_points": 130,
+      "raid_points": 265,
       "requirements": 10
     },
     {
       "name": "RH ΔΞΛЬТА",
       "link": "https://swgoh.gg/g/9QIUNJFITYiQ6IIUsqKUHw/",
-      "galactic_power": 516,
+      "galactic_power": 519,
       "dstb_geo": 33,
       "lstb_geo": 32,
       "rote_stars": 36,
@@ -28,23 +28,23 @@
     {
       "name": "RH Антанта2",
       "link": "https://swgoh.gg/g/IGItKRB9TWivojXv-572FQ/",
-      "galactic_power": 440,
+      "galactic_power": 417,
       "dstb_geo": 32,
       "lstb_geo": 27,
       "rote_stars": 28,
-      "rote_reva": 7,
+      "rote_reva": 15,
       "raid": "krayt",
-      "raid_points": 90,
-      "requirements": 6
+      "raid_points": 25,
+      "requirements": 7
     },
     {
       "name": "RH Из Пеплa",
       "link": "https://swgoh.gg/g/mobaRRfqTlanm8ZPL0QJMw/",
-      "galactic_power": 360,
+      "galactic_power": 349,
       "dstb_geo": 31,
       "lstb_geo": 19,
-      "rote_stars": 22,
-      "rote_reva": 0,
+      "rote_stars": 20,
+      "rote_reva": 2,
       "raid": "krayt",
       "raid_points": 25,
       "requirements": 5
@@ -56,7 +56,7 @@
       "dstb_geo": 32,
       "lstb_geo": 27,
       "rote_stars": 33,
-      "rote_reva": 32,
+      "rote_reva": 33,
       "raid": "krayt",
       "raid_points": 90,
       "requirements": 7.5
@@ -76,7 +76,7 @@
     {
       "name": "RH DĒTHTRØØPĒR",
       "link": "https://swgoh.gg/g/AF-ZGW9dRGiu1vRQCrduWA/",
-      "galactic_power": 503,
+      "galactic_power": 506,
       "dstb_geo": 33,
       "lstb_geo": 32,
       "rote_stars": 36,
@@ -88,14 +88,14 @@
     {
       "name": "RH Zakuul",
       "link": "https://swgoh.gg/g/CKBeaG5bQhuUog3h4d_mCQ/",
-      "galactic_power": 495,
+      "galactic_power": 499,
       "dstb_geo": 33,
       "lstb_geo": 32,
       "rote_stars": 34,
-      "rote_reva": 40,
+      "rote_reva": 50,
       "raid": "krayt",
       "raid_points": 130,
-      "requirements": 9
+      "requirements": 9.5
     },
     {
       "name": "RH Jensaarai",
@@ -116,7 +116,7 @@
       "dstb_geo": 32,
       "lstb_geo": 27,
       "rote_stars": 30,
-      "rote_reva": 12,
+      "rote_reva": 15,
       "raid": "krayt",
       "raid_points": 25,
       "requirements": 7
