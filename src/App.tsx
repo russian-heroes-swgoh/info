@@ -2,10 +2,11 @@ import React from 'react';
 import guildsInfo from './mock-data/guilds.json';
 import logo from './assets/rh-logo.png';
 import reva from './assets/tex.charui_thirdsister.png';
+import raidPursuit from './assets/raid-pursuit.png'
 import raidKrayt from './assets/raid-krayt.png'
 import raidTriumvirate from './assets/raid-the-sith-triumvirate.png'
 import raidPit from './assets/raid-pit.png'
-import raidPoints from './assets/raid-points.png'
+import raidPoints from './assets/raid-points-2.png'
 import {ReactComponent as StarIcon} from './assets/star-solid.svg';
 import './App.css';
 
@@ -15,6 +16,8 @@ function getRaidLogo(raid: string | undefined) {
     }
 
     switch (raid) {
+        case "pursuit":
+            return raidPursuit;
         case "krayt":
             return raidKrayt;
         case "triumvirate":
@@ -42,16 +45,10 @@ function App() {
                         {guildInfo.galactic_power} kk
                     </td>
 
-                    {guildInfo.rote_stars && guildInfo.rote_stars > 0
-                        ? <td className="rote-tb">
-                            <span className="rote-tb-stars">{guildInfo.rote_stars} <StarIcon/></span>
-                            <span className="rote-tb-reva">{guildInfo.rote_reva} <img src={reva} alt="Reva"/></span>
-                        </td>
-                        : <td className="geo-tb">
-                            <span className="lstb-geo">{guildInfo.lstb_geo} <StarIcon/></span>
-                            <span className="dstb-geo">{guildInfo.dstb_geo} <StarIcon/></span>
-                        </td>
-                    }
+                    <td className="rote-tb">
+                        <span className="rote-tb-stars">{guildInfo.rote_stars} <StarIcon/></span>
+                        <span className="rote-tb-reva">{guildInfo.rote_reva} <img src={reva} alt="Reva"/></span>
+                    </td>
 
                     <td className="raid">
                         <span className="raid-logo"> <img src={raidLogo} alt="Raid"/> </span>
