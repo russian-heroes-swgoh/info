@@ -18,7 +18,7 @@
       "rote_stars": 30,
       "rote_reva": 31,
       "raid": "pursuit",
-      "raid_points": 210,
+      "raid_points": 208,
       "requirements": 8
     },
     {
@@ -28,7 +28,7 @@
       "rote_stars": 27,
       "rote_reva": 9,
       "raid": "pursuit",
-      "raid_points": 150,
+      "raid_points": 144,
       "requirements": 5
     },
     {
@@ -57,6 +57,16 @@
       "galactic_power": 553,
       "rote_stars": 39,
       "rote_reva": 43,
+      "raid": "pursuit",
+      "raid_points": 424,
+      "requirements": 10
+    },
+    {
+      "name": "RH RAGE",
+      "link": "https://swgoh.gg/g/ENOMFEn0Rx-tIKDKyDH_eA/",
+      "galactic_power": 540,
+      "rote_stars": 36,
+      "rote_reva": 48,
       "raid": "pursuit",
       "raid_points": 424,
       "requirements": 10
@@ -91,15 +101,5 @@
       "raid_points": 208,
       "requirements": 9
     },
-    {
-      "name": "RH RAGE",
-      "link": "https://swgoh.gg/g/ENOMFEn0Rx-tIKDKyDH_eA/",
-      "galactic_power": 540,
-      "rote_stars": 36,
-      "rote_reva": 48,
-      "raid": "pursuit",
-      "raid_points": 424,
-      "requirements": 10
-    }
   ]
-}
+
