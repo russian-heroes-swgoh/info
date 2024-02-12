@@ -1,22 +1,22 @@
 {
-  "update_date": "02.02.2024",
+  "update_date": "12.02.2024",
   "guilds": [
     {
       "name": "RH UNITY",
       "link": "https://swgoh.gg/g/37Cx8RqORU2qLE0AKBgTjg/",
-      "galactic_power": 581,
+      "galactic_power": 585,
       "rote_stars": 41,
       "rote_reva": 47,
       "raid": "pursuit",
-      "raid_points": 424,
+      "raid_points": 665,
       "requirements": 10
     },
     {
       "name": "RH Antanta",
       "link": "https://swgoh.gg/g/IGItKRB9TWivojXv-572FQ/",
-      "galactic_power": 480,
+      "galactic_power": 485,
       "rote_stars": 30,
-      "rote_reva": 31,
+      "rote_reva": 33,
       "raid": "pursuit",
       "raid_points": 208,
       "requirements": 8
@@ -24,9 +24,9 @@
     {
       "name": "RH Из Пеплa",
       "link": "https://swgoh.gg/g/mobaRRfqTlanm8ZPL0QJMw/",
-      "galactic_power": 370,
-      "rote_stars": 27,
-      "rote_reva": 9,
+      "galactic_power": 408,
+      "rote_stars": 28,
+      "rote_reva": 8,
       "raid": "pursuit",
       "raid_points": 144,
       "requirements": 5
@@ -34,9 +34,9 @@
     {
       "name": "RH OSCOLKI IMPERII",
       "link": "https://swgoh.gg/g/SKbd4l-cSreHYdwXoEl3zA/",
-      "galactic_power": 524,
+      "galactic_power": 528,
       "rote_stars": 36,
-      "rote_reva": 30,
+      "rote_reva": 28,
       "raid": "pursuit",
       "raid_points": 208,
       "requirements": 9
@@ -44,7 +44,7 @@
     {
       "name": "RH Invisible Sun",
       "link": "https://swgoh.gg/g/oy2awPmqRYyCKPvgJNjPIQ/",
-      "galactic_power": 572,
+      "galactic_power": 576,
       "rote_stars": 38,
       "rote_reva": 46,
       "raid": "pursuit",
@@ -54,8 +54,8 @@
     {
       "name": "RH DĒTHTRØØPĒR",
       "link": "https://swgoh.gg/g/AF-ZGW9dRGiu1vRQCrduWA/",
-      "galactic_power": 553,
-      "rote_stars": 39,
+      "galactic_power": 557,
+      "rote_stars": 40,
       "rote_reva": 43,
       "raid": "pursuit",
       "raid_points": 424,
@@ -64,7 +64,7 @@
     {
       "name": "RH RAGE",
       "link": "https://swgoh.gg/g/ENOMFEn0Rx-tIKDKyDH_eA/",
-      "galactic_power": 540,
+      "galactic_power": 548,
       "rote_stars": 36,
       "rote_reva": 48,
       "raid": "pursuit",
@@ -74,11 +74,11 @@
     {
       "name": "RH Zakuul",
       "link": "https://swgoh.gg/g/CKBeaG5bQhuUog3h4d_mCQ/",
-      "galactic_power": 540,
+      "galactic_power": 542,
       "rote_stars": 36,
-      "rote_reva": 36,
+      "rote_reva": 40,
       "raid": "pursuit",
-      "raid_points": 208,
+      "raid_points": 424,
       "requirements": 10
     },
     {
@@ -94,7 +94,7 @@
     {
       "name": "RH JEDHA",
       "link": "https://swgoh.gg/g/D4NohSzSSPeugAOFvOppJA/",
-      "galactic_power": 491,
+      "galactic_power": 494,
       "rote_stars": 33,
       "rote_reva": 32,
       "raid": "pursuit",
