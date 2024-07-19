@@ -48,7 +48,7 @@ function App() {
                     </td>
 
                     <td className="rote-tb">
-                        <span className="rote-tb-stars">{guildInfo.rote_stars} <StarIcon/>
+                        <span className="rote-tb-stars">{guildInfo.rote_stars} <StarIcon/> </span>
                     </td>
 
                     <td className="raid">
