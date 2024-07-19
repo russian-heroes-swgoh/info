@@ -2,6 +2,7 @@ import React from 'react';
 import guildsInfo from './mock-data/guilds.json';
 import logo from './assets/rh-logo.png';
 import reva from './assets/tex.charui_thirdsister.png';
+import raidPursuit from './assets/Naboo.png'
 import raidPursuit from './assets/raid-pursuit.png'
 import raidKrayt from './assets/raid-krayt.png'
 import raidTriumvirate from './assets/raid-the-sith-triumvirate.png'
@@ -16,6 +17,8 @@ function getRaidLogo(raid: string | undefined) {
     }
 
     switch (raid) {
+        case "Naboo" :
+            return raidNaboo;
         case "pursuit":
             return raidPursuit;
         case "krayt":
@@ -47,7 +50,6 @@ function App() {
 
                     <td className="rote-tb">
                         <span className="rote-tb-stars">{guildInfo.rote_stars} <StarIcon/></span>
-                        <span className="rote-tb-reva">{guildInfo.rote_reva} <img src={reva} alt="Reva"/></span>
                     </td>
 
                     <td className="raid">
