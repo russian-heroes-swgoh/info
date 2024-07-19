@@ -17,7 +17,7 @@ function getRaidLogo(raid: string | undefined) {
     }
 
     switch (raid) {
-        case "Naboo" :
+        case "naboo" :
             return raidNaboo;
         case "pursuit":
             return raidPursuit;
