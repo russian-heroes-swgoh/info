@@ -74,7 +74,6 @@ function App() {
             <div className="row">
                 <div className="col col-lg-8 offset-lg-2">
                     <a href="https://recruit.swgoh.gg/alliance/355/russian-heroes" target="_blank" rel="noreferrer">
-                        <img src={logo} alt="Russian Heroes Alliance" className="p-3 mx-auto w-100"/>
                     </a>
                 </div>
             </div>
