@@ -1,6 +1,6 @@
 import React from 'react';
 import guildsInfo from './mock-data/guilds.json';
-import logo from './assets/rh-logo.png';
+import logo from './assets/CIS.png';
 import raidNaboo from './assets/raid-naboo.png'
 import raidPursuit from './assets/raid-pursuit.png'
 import raidKrayt from './assets/raid-krayt.png'
