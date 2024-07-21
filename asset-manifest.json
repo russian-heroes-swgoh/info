@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/info/static/css/main.92cc4853.css",
+    "main.js": "/info/static/js/main.f34942e0.js",
+    "static/js/787.16bc19f9.chunk.js": "/info/static/js/787.16bc19f9.chunk.js",
+    "static/media/CIS 4.jpg": "/info/static/media/CIS 4.9299f9c9401be776954d.jpg",
+    "static/media/raid-naboo.png": "/info/static/media/raid-naboo.f6635b7793cbf8b285ef.png",
+    "static/media/raid-krayt.png": "/info/static/media/raid-krayt.495cee3c06901bd283b8.png",
+    "static/media/raid-pit.png": "/info/static/media/raid-pit.1466006242bc953c4808.png",
+    "static/media/raid-pursuit.png": "/info/static/media/raid-pursuit.8c58a771710a51f6324b.png",
+    "static/media/raid-the-sith-triumvirate.png": "/info/static/media/raid-the-sith-triumvirate.d91c28f0b45238789474.png",
+    "static/media/raid-points-2.png": "/info/static/media/raid-points-2.a6378aa03ef663bfa373.png",
+    "index.html": "/info/index.html",
+    "static/media/star-solid.svg": "/info/static/media/star-solid.c4d44ce72583a8100a8070da1547e845.svg",
+    "main.92cc4853.css.map": "/info/static/css/main.92cc4853.css.map",
+    "main.f34942e0.js.map": "/info/static/js/main.f34942e0.js.map",
+    "787.16bc19f9.chunk.js.map": "/info/static/js/787.16bc19f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92cc4853.css",
+    "static/js/main.f34942e0.js"
+  ]
+}
